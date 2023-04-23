@@ -6,7 +6,7 @@ function App() {
     <>
       <h1>New Branch</h1>
       <h2>if c === le console.log("Hellow World") target=__blank if target == blank the link will open in new one</h2>
-      <h1 className="title">c4a.dev console.log(hello)</h1>
+      <h1 className="title">c4a.dev console.log(hello)</h1>wefw
       <p>
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse cumque
         officiis ullam, maiores expedita dolores dolore corporis velit
