@@ -4,6 +4,7 @@ import logo from "./logo.svg";
 function App() {
   return (
     <>
+      <h1>version 2</h1>
       <h1 className="title">c4a.dev console.log(hello)</h1>
       <p>
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse cumque
